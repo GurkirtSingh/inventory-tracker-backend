@@ -1,7 +1,7 @@
 # Inventory Tracker
 [![Run on Repl.it](https://repl.it/badge/github/GurkirtSingh/inventory-tracker-backend)](https://repl.it/github/GurkirtSingh/inventory-tracker-backend)
 
-This is node js/express backend server provides APIs to create, read, update and delete inventory items. There is also a fronend repository for this project at [Inventory Tracker App](https://github.com/GurkirtSingh/inventory-tracker-app).
+This is node js/express backend server provides APIs to create, read, update and delete inventory items. There is also a fronend [Inventory Tracker App](https://github.com/GurkirtSingh/inventory-tracker-app) created using react for this project.
 
 # Running Locally
 ## prerequisite
