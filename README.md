@@ -1,4 +1,4 @@
-# Inventory Tracker
+# Inventory Tracker Server
 [![Run on Repl.it](https://repl.it/badge/github/GurkirtSingh/inventory-tracker-backend)](https://repl.it/github/GurkirtSingh/inventory-tracker-backend)
 
 [Live App](https://inventory-tracker-app.gurkirtsingh.repl.co)
