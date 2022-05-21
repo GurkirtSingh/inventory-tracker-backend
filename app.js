@@ -16,7 +16,7 @@ const itemRouter = require("./routes/item");
 const warehouseRouter = require("./routes/warehouse");
 
 const app = express();
-const whitelist = ["http://localhost:3000"];
+const whitelist = ["http://localhost:3000", "https://inventory-tracker-app.gurkirtsingh.repl.co"];
 app.use(
   cors({
     credentials: true,
